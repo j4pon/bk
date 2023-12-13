@@ -1,0 +1,6 @@
+[submodule "bkserver"]
+	path = bkserver
+	url = https://github.com/j4pon/bkserver.git
+[submodule "bkweb"]
+	path = bkweb
+	url = https://github.com/j4pon/bkweb.git
